@@ -1,6 +1,4 @@
 
-<<<<<<< HEAD
-=======
 # **Intern Project Showcase Platform**
 
 A platform where interns can professionally showcase their projects, including images and project files, and view other interns’ work. Built with **React, Node.js, Express, MongoDB**, and JWT authentication.
@@ -176,8 +174,7 @@ intern-project-showcase/
 
 ---
 
+
 ## **License**
 
 This project is open source and available under the **MIT License**.
-
->>>>>>> fafb11b103ee617ea5c2bc44bb1307744de80113
